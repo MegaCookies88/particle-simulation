@@ -1,11 +1,9 @@
 # particle-simulation
-simple physics simulation of particles in a fluid
+simple physics simulation of particles in a fluid.
 
-+++ Dossier « final » : Dernière version du projet, utiliser la commande « qmake » puis « make »
+use qmake then make to run project.
 
-  Version texte dans le dossier « text » : situation de l’exerciceP11
-
-  Version graphique dans le dossier « Qt_GL » :
+Version graphique dans le dossier « Qt_GL » :
 		fenêtre 1 : plusieurs obstacles et sources.
 		fenêtre 2 : changement de milieu.
 		fenêtre 3 : planche de Galton.
