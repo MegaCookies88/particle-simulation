@@ -1,7 +1,7 @@
 # particle-simulation
-simple physics simulation of particles in a fluid.
+simple physics simulation of particles in a fluid;
 
-use qmake then make to run project.
+use qmake then make to run project;
 
 Version graphique dans le dossier « Qt_GL » :
 		fenêtre 1 : plusieurs obstacles et sources.
